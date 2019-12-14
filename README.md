@@ -43,3 +43,7 @@ the modules. Doing this can kill the processes, so rip.
 
 ## only tested x64
 Haven't checked x86 yet
+
+
+# Aknowledgements
+Concept adapted and extended from: https://github.com/ChadSki/SharpNeedle
